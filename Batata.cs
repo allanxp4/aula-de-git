@@ -8,6 +8,6 @@ namespace TesteGit
 {
     class Batata
     {
-        //revert
+        //reset
     }
 }
