@@ -8,6 +8,5 @@ namespace TesteGit
 {
     class Batata
     {
-        //aroaraoraoraorao
     }
 }
